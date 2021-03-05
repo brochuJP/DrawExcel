@@ -134,8 +134,8 @@ def DrawExcel(fileFolder,fileName):
     drawA_Graph(df_XlStuct,fileFolder,fileName)
     print("Done")
 def main():
-    fileFolder=r"C:\Users\broch\Desktop\to delete"
-    fileName = r"MS Excel Data Entry Form v26.xlsm"
+    fileFolder=r"My Excel file folder Path"
+    fileName = r"My Excel file name including extension"
     DrawExcel(fileName,fileFolder)
     print("Main representation availeble here: \n" + crlf + fileFolder + "/" + fileName + "/_Main.svg" ) 
 if __name__== "__main__":
