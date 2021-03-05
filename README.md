@@ -1,5 +1,5 @@
 # DrawExcel
-Tool that draw VBA structure of you MS Excel file. 
+Tool that draw VBA structure of your MS Excel file. 
 It will scan VBA code in a MS Excel file and draw a visual diagram of its structure (Sheets, modules, forms ...) in an interractive SVG file.
 
 
