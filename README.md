@@ -21,12 +21,13 @@ DrawExcel.DrawExcel( '--Your Excel file folder--' , '--Your excel file name (inc
 ## Output Example:
 <img alt="Overview of OEIS tools" src="docs/_MAIN.jpg" width="75%">
 
-When you are working with a complex Excel file, you may find that for some VB components are chaotic. In order to have a better view of some section of your graph, click on the section name at the header of the sub zone to see a deeper view. 
+When you are working with a complex Excel file, you may find that some VB components are chaotic. In order to have a better view of some section of your graph, click on the section name at the header of the sub zone to see a deeper view. 
 
 For example if we click on Sheet3 we will see the following:
 
 <img alt="Overview of OEIS tools" src="docs/Sheet3.jpg" width="75%">
-
+  
+By doing this you can can have a deeper view of you graph.
 ## Dependencies
 
 
