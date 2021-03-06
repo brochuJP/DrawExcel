@@ -1,6 +1,6 @@
 # DrawExcel
-Tool that draw VBA structure of your MS Excel file. 
-It will scan VBA code in a MS Excel file and draw a visual diagram of its structure (Sheets, modules, forms ...) in an interractive SVG file.
+Tool that draws VBA structure of your MS Excel file. 
+It will scan VBA code in a MS Excel file and draws a visual diagram of its structure (Sheets, modules, forms ...) in an interractive SVG file.
 
 
 ## Requirement
@@ -19,13 +19,13 @@ DrawExcel.DrawExcel( '--Your Excel file folder--' , '--Your excel file name (inc
 
 
 ## Output Example:
-<img alt="Overview of OEIS tools" src="docs/_MAIN.jpg" width="75%">
+![](https://github.com/brochuJP/DrawExcel/blob/main/docs/_MAIN.jpg?raw=true)
 
 When you are working with a complex Excel file, you may find that some VB components are chaotic. In order to have a better view of some section of your graph, click on the section name at the header of the sub zone to see a deeper view. 
 
 For example if we click on Sheet3 we will see the following:
 
-<img alt="Overview of OEIS tools" src="docs/Sheet3.jpg" width="75%">
+![](https://github.com/brochuJP/DrawExcel/blob/main/docs/Sheet3.jpg?raw=true)
   
 By doing this you can can have a deeper view of you graph.
 ## Dependencies
